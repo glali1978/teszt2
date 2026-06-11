@@ -1,2 +1,2 @@
 "1. nap: alap jegyzet" 
-ez az 1. belemódosítás
+kitöröltem itt egy sort
